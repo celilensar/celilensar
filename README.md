@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ensar Celil AVCI</h1>
-<h3 align="center">I'm Mobile Application & MERN Stack Developer</h3>
+<h3 align="center">I'm Full Stack Mobile & Web Developer</h3>
 
 - 🔭 I’m currently working on [Vocab-app](https://github.com/celilensar/vocab-app)
 
