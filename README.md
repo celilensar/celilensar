@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Vocab-app](https://github.com/celilensar/vocab-app)
 
-- 🌱 I’m currently learning **Node.js & Express.js**
+- 🌱 I’m currently learning **Next.js & Express.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/celilensar?tab=repositories](https://github.com/celilensar?tab=repositories)
 
