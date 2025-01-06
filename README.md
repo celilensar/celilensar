@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ensar Celil AVCI</h1>
 <h3 align="center">I'm Full Stack Mobile & Web Developer</h3>
 
-- 🔭 I’m currently working on [Vocab-app](https://github.com/celilensar/vocab-app)
+- 🔭 I’m currently working on .NET
 
 - 🌱 I’m currently learning **Next.js & TypeScript
 
