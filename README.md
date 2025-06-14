@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on .NET
 
-- 🌱 I’m currently learning **Next.js & TypeScript
+- 🌱 I’m good at **Next.js & TypeScript
 
 - 👨‍💻 All of my projects are available at [https://github.com/celilensar?tab=repositories](https://github.com/celilensar?tab=repositories)
 
