@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **ensar.avc231@gmail.com**
 
-- 📄 Know about my experiences [https://ensar-celil-resume.tiiny.site](https://ensar-celil-resume.tiiny.site)
+- 📄 Know about my experiences?
+- www.celilensar.com
 
 - ⚡ Fun fact **I am a creative and passionate JavaScript developer, with a particular focus on React Native and MERN Stack.**
 
