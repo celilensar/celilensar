@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ensar Celil AVCI</h1>
 <h3 align="center">I'm Full Stack Mobile & Web Developer</h3>
 
-- 🔭 I’m currently working on .NET
+- 🔭 I’m currently working on ticketminds-backend (Spring Boot)
 
-- 🌱 I’m good at **Next.js & TypeScript
+- 🌱 I’m good at **Java Spring Boot, Next.js, React Native and MERN Stack.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/celilensar?tab=repositories](https://github.com/celilensar?tab=repositories)
 
